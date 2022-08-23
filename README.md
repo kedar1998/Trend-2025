@@ -5,8 +5,6 @@
 ## Table of Contents
 * [Technologies Used](#technologies-used)
 * [Screenshots](#screenshots)
-* [Room for Improvement](#room-for-improvement)
-* [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 <!-- * [License](#license) -->
 
@@ -23,7 +21,9 @@
 ![Example screenshot](./assets/mobile_ss.png)
 
 
+## Contact
 
+[Linkedin](https://www.linkedin.com/in/kedar-makode-9833321ab)
 
 
 
