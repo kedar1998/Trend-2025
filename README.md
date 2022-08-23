@@ -25,6 +25,6 @@
 
 [Linkedin](https://www.linkedin.com/in/kedar-makode-9833321ab)
 
-(kedarmakode1598@gmail.com)
+Email - kedarmakode1598@gmail.com
 
 
